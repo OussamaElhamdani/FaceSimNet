@@ -9,7 +9,7 @@ This project follows a structured workflow that is designed to help you understa
 
 1. **Main Notebook**: Begin by reviewing the `main` notebook. This notebook contains theoretical details and serves as an overview or project review. It provides essential background information on the project.
 
-2. **Imgprocessing Notebook**: After reviewing the `main` notebook, proceed to the `Imgprocessing` notebook. This notebook covers various image processing techniques used in the project. Understanding these techniques is crucial for grasping the subsequent model implementation.
+2. **Imgprocessing Notebook**: After reviewing the `main` notebook, proceed to the `Imgprocessing` notebook. This notebook covers various image processing techniques used in the project. 
 
 3. **Model Notebook**: Finally, explore the `model` notebook. This notebook delves into the main ideas and implementation details of the project. By this point, you should have a solid understanding of the project's theoretical foundations and image processing techniques, which will aid in comprehending the model implementation.
 
