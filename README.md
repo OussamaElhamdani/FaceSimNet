@@ -2,7 +2,7 @@
 > "Morpheus: Unfortunately no one can be told what the Matrix is. You have to see it for yourself."
 
 ## Overview on the project workflow 
-FaceSimNet is the name i give to this model whose predicting the similarity degree between two input faces. At first glance it's a challenging project since just the way to similarity and then the data labels of these are not really straightforward. The really one key that helped me model these is the simplification of the project into a face verification project.
+"FaceSimNet" is the name I've given to this model, designed to predict the degree of similarity between two input faces. At first glance, this project presents a significant challenge due to the nuanced definition of similarity and the complexity of labeling the data. The pivotal breakthrough came with the realization that the project could be reframed as a face verification task. This simplification was instrumental in shaping the approach to modeling and solving the problem.
 
 ## How you should read Notebooks
 This project follows a structured workflow that is designed to help you understand the key components and implementation details. Follow the steps below to get started:
