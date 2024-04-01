@@ -20,7 +20,7 @@ By following this structured workflow, you'll gain a comprehensive understanding
 Research papers: 
 - [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
 - [FaceNet](https://arxiv.org/abs/1503.03832)
-- [Siamese Network TL](https://sci-hub.se/10.1109/mvip49855.2020.9116915)
+- [Siamese Network TL](https://ieeexplore.ieee.org/document/9116915)
 
 Keras Documentation:
 - https://keras.io/examples/vision/siamese_contrastive/ 
