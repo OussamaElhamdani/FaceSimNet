@@ -22,5 +22,5 @@ Research papers:
 - [FaceNet](https://arxiv.org/abs/1503.03832)
 - [Siamese Network TL](https://ieeexplore.ieee.org/document/9116915)
 
-Keras Documentation:
-- https://keras.io/examples/vision/siamese_contrastive/ 
+PyTorch Documentation:
+- [Siamese Network Example](https://github.com/pytorch/examples/blob/main/siamese_network/main.py) 
