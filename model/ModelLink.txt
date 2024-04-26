@@ -1,0 +1,1 @@
+Here's the huggingface link to the FaceSimNet model: "https://huggingface.co/MohamedOussama/FaceSimNet/tree/main"
