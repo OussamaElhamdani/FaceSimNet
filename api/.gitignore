@@ -1,0 +1,4 @@
+venv
+models--MohamedOussama--FaceSimNet
+.locks
+__pycache__
